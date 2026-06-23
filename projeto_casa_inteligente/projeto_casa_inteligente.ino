@@ -1,3 +1,8 @@
+/**
+ * Projeto: Casa Inteligente via ESP32
+ * Autores: Lucas Cardoso Rodrigues e Bruno Sezar Marcelino Aiolfi
+ */
+
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <WebServer.h>
